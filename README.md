@@ -5,5 +5,5 @@ Waarom laadt het plaatje niet meteen?
 C64 stuff o.a.:
 - Kernal ROM
 - PLA Replacement
-- SID Kick Pro
+- SID Kick Pico
 - etc.
